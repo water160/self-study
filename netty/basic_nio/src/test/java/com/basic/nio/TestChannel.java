@@ -50,7 +50,7 @@ public class TestChannel {
 
     public static final String picPath2 = System.getProperty("user.dir") + "/src/test/resources/2.jpg";
 
-    public static final String picPath3 = System.getProperty("user.dir") + "/src/test/resources/2.jpg";
+    public static final String picPath3 = System.getProperty("user.dir") + "/src/test/resources/3.jpg";
 
     public static final String txtPath1 = System.getProperty("user.dir") + "/src/test/resources/1.txt";
 
